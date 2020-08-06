@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teleoperated in-hand manipulation
-description: Teleoperation experiments for in-hand object pose estimation
+title: Robotic in-hand manipulation
+description: Experiments for in-hand robotic manipulation
 img: /assets/img/teleop_thumb.jpg
 importance: 1
 ---

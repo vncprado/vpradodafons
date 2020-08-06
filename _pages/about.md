@@ -12,7 +12,7 @@ profile:
     <p>Memorial University of Newfoundland</p>
     <p>St. John's, NL</p>
 
-news: true
+news: false
 social: true
 ---
 
@@ -20,6 +20,12 @@ Hi!
 
 I'm a assistant professor in the Department of Computer Science at Memorial University of Newfoundland.
 My research interests are Robotics, Tactile sensing, Robotic manipulation, Human-machine interaction, Human-robot interaction, Applied machine learning, Artificial intelligence .
+
+Formation:
+
+  * PhD Electrical and Computer Engineering - University of Ottawa (2020)
+  * MSc Systems and Computing - Military Institute of Engineering [BRA] (2013)
+  * BSc Computer Science - Federal University of Tocantins [BRA] (2010)
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
