@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <!--<p>555 your office number</p>-->
     <p>Memorial University of Newfoundland</p>
+    <p>230 Elizabeth Ave</p>
     <p>St. John's, NL</p>
 
 news: false

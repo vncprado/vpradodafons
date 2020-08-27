@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "url:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: http://www.cs.mun.ca/ # the base hostname & protocol for your site
+url: https://www.cs.mun.ca/ # the base hostname & protocol for your site
 baseurl: ~vpradodafons # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 
@@ -36,7 +36,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: vncprado # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: vncprado # your LinkedIn user name
+linkedin_username: pradovinicius # your LinkedIn user name
 scholar_userid: 3MTgeekAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
