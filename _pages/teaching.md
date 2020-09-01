@@ -7,4 +7,5 @@ nav: true
 ---
 
 Fall 2020:
+
   * COMP2003 - Computer Architecture

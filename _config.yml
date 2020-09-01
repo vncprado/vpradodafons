@@ -9,8 +9,8 @@ description: > # this means to ignore newlines until "url:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://www.cs.mun.ca/ # the base hostname & protocol for your site
-baseurl: ~vpradodafons # the subpath of your site, e.g. /blog/
+url: https://www.cs.mun.ca # the base hostname & protocol for your site
+baseurl: /~vpradodafons # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
