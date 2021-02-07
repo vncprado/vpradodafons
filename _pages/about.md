@@ -8,11 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Memorial University of Newfoundland</p>
-    <p>Engineering And Applied Science (EN)</p>
-    <p>4 Kerwin Pl Unit 2, St. John's, NL A1B 3R5</p>
-    <p>St. John's, NL</p>
-    <p>Office EN 2012</p>
+    <p>Engineering And Applied Science Building (EN)</p>
+    <p>4 Kerwin Pl Unit 2</p>
+    <p>St. John's, NL A1B 3R5</p>
+    <p>Office: EN 2012</p>
 
 news: false
 social: false

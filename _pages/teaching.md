@@ -9,3 +9,7 @@ nav: true
 Fall 2020:
 
   * COMP2003 - Computer Architecture
+
+Winter 2021:
+
+  * COMP2003 - Computer Architecture
