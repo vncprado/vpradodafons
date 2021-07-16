@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="mun.ca">Memorial University</a>. Address. Contacts. Moto. Etc.
 
