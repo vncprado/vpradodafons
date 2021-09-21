@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 description: <a href="mun.ca">Memorial University</a>. Address. Contacts. Moto. Etc.
 
@@ -17,8 +17,8 @@ news: false
 social: false
 ---
 
-Hi!
-
+<!-- [Portuguese pronunciation: vi'nisiuʃ pɾadu da fõˈsekɐ]  -->
+Hi!  
 I'm an assistant professor in the Department of Computer Science at the Memorial University of Newfoundland.
 My research interests are Robotics, Tactile sensing, Robotic manipulation, Human-machine interaction, Human-robot interaction, Applied machine learning and Artificial intelligence.
 
