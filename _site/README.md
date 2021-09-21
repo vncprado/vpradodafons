@@ -1,3 +1,7 @@
+## tl;dr
+
+    bundle exec jekyll serve
+
 ## My deploy
 
 Compile on your machine:
@@ -10,7 +14,6 @@ Copy `_site` to your local `.www` folder
 Change permissions:
 
     chmod -R 0755 *
-
 
 # al-folio
 
