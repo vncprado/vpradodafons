@@ -1,3 +1,17 @@
+## My deploy
+
+Compile on your machine:
+
+    bundle exec jekyll build
+  
+Push changes to github  
+Pull changes in the server  
+Copy `_site` to your local `.www` folder  
+Change permissions:
+
+    chmod -R 0755 *
+
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
