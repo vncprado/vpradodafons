@@ -6,15 +6,5 @@ description: Materials for courses I taught.
 nav: true
 ---
 
-Fall 2020:
-
-  * COMP2003 - Computer Architecture
-
-Winter 2021:
-
-  * COMP2003 - Computer Architecture
-
-Fall 2021
-
-  * COMP2003 - Computer Architecture
-  * COMP2004 - Introduction to Operating Systems
+  * COMP2003 - Computer Architecture (F2020,W2021,F2021,W2022)
+  * COMP2004 - Introduction to Operating Systems (F2021,W2022)
