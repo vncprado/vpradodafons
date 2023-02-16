@@ -11,8 +11,13 @@ Compile on your machine:
 Push changes to github  
 Pull changes in the server  
 Copy `_site` to your local `.www` folder  
-Change permissions:
+  
+    cd ~/vpradodafons/
+    cp -r _site/* ~/.www/
 
+Change permissions:
+    
+    cd ~/.www/
     chmod -R 0755 *
 
 # al-folio
