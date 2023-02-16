@@ -3,7 +3,7 @@ layout: page
 title: Dexterous Robotic Manipulation
 description: Tactile sensing and in-hand robotic manipulation
 img: /assets/img/projects/teleop_thumb.jpg
-importance: 1
+importance: 2
 ---
 
 Machine learning and tactile sensing applied to dexterous manipulation

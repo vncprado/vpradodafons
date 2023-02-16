@@ -3,7 +3,7 @@ layout: page
 title: Object and Texture Classification
 description: Multi-modal tactile sensing for classification
 img: /assets/img/projects/texture.jpg
-importance: 2
+importance: 4
 ---
 
 Tactile perception for texture and object characterization

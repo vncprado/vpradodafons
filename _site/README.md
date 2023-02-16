@@ -2,6 +2,12 @@
 
     bundle exec jekyll serve
 
+Seems that: 
+
+    jekyll serve/build
+
+is enough for the deploy. Why do I need bundle again?
+
 ## My deploy
 
 Compile on your machine:
