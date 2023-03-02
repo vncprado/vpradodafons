@@ -18,7 +18,7 @@ Push changes to github
 Pull changes in the server  
 Copy `_site` to your local `.www` folder  
   
-    cd ~/vpradodafons/
+    cd ~/workspace/vpradodafons/
     cp -r _site/* ~/.www/
 
 Change permissions:
