@@ -26,6 +26,7 @@ nav: true
   * Yudish Juwaheer
 
 * Masters (work-term)
+  * Sai Siddhartha Danyamraju
   * Iftekhar Hossain Masud
   * S M Arifuzzaman
 
