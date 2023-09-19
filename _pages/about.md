@@ -10,8 +10,11 @@ profile:
   address: >
     <p>Department of Computer Science </p>
     <p>Memorial University of Newfoundland</p>
-    <p>St. John's, NL A1B 3X5</p>
-    <p>Office: EN-2012</p>
+    <p>240 Prince Phillip Drive</p>
+    <p>S.J. Carew Building - EN2012</p>
+    <p>St. John's, NL  A1B 3X5</p>
+    <p>Canada</p>
+
 
 news: false
 social: false
