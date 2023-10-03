@@ -15,10 +15,13 @@ Compile on your machine:
     bundle exec jekyll build
   
 Push changes to github  
-Pull changes in the server  
-Copy `_site` to your local `.www` folder  
-  
+Pull changes in the server
+    
     cd ~/workspace/vpradodafons/
+    git pull origin master
+
+Copy `_site` to your local `.www` folder  
+
     cp -r _site/* ~/.www/
 
 Change permissions:
