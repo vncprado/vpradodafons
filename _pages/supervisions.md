@@ -10,12 +10,14 @@ nav: true
   * Elahe Mohammadreza
 
 * Masters
+  * Soroush Baghernezhad
   * Aref Sayareh
   * Viral Galaiya
   * Shemonto Das
   * Jordan Noel
 
 * Honours Thesis
+  * Kristmundur Hann
   * Tahsin Ahmed Prottoy
   * S M Shahriar Jobayer
 
@@ -25,12 +27,13 @@ nav: true
   * Salman Haidri
   * Yudish Juwaheer
 
-* Masters (work-term)
+* Masters (Course-based project)
   * Sai Siddhartha Danyamraju
   * Iftekhar Hossain Masud
   * S M Arifuzzaman
 
 * Mitacs Globalink
+  * Dante Santos
   * Nakul Nibe
   * Kadambari Bhujbal
 
