@@ -38,6 +38,9 @@ nav: true
   * Kadambari Bhujbal
 
 * External
+  * Igor Cardoso - BSc (IME)
+  * Carlos Gomes - BSc (IME)
+  * Laurent Yves Emile Ramos Cheret - MSc (Lakehead University) 
   * Alexandre Boente - MSc (IME)
   * Humberto Navarro de Carvalho - BSc (UFPB)
   * Lucas Pontes Castro - BSc (UFPB)
